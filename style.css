@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    text-decoration: none;
+    border: border-box;
+}
+.navbar{
+    background-color: black;
+    height: 100px;
+}
+li{
+    display: inline-block;
+   margin:  40PX;
+}
+ul{
+    text-align: right;
+}
+input{
+    width: 500px;
+    height: 30px;
+}
+img{
+    width: 500px;
+    margin: 15px;
+    margin-left: 750px;
+}
+p{
+    color: black;
+    margin-top: -330px;
+    margin-left: 15px;
+    font-size: 30px;
+}
+
